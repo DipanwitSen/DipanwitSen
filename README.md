@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DipanwitSen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dipanwita Sen
+- 👀 I’m interested in Coding and Tech world
+- 🌱 I’m currently learning about cyber and cloud 
+- 💞️ I’m looking to collaborate via github
+- 📫 reach me on insta daliasen_202020
 
 <!---
-DipanwitSen/DipanwitaSen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+System.out.print("wake up");
+print("code")
+printf("sleep");
 --->
